@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, soy Uriel Alessandro </h1>
 <h3 align="center">Desarrollador Full Stack en MERN & Mobile Apps</h3>
 
-- 📫 Contáctame urialessandro2@gmail.com
-- 💼 LinkedIn https://www.linkedin.com/in/uriel-alessandro-8618b421a/
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=urialessa&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="urialessa" /></p>
